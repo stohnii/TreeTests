@@ -12,7 +12,7 @@ namespace TreeTestProject
         public BinaryTree()
         {
             Root = null;
-        }
+        } 
 
         #region IBinaryTree methods
 
